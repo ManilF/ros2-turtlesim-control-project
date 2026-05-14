@@ -15,12 +15,12 @@ The goal of the project was to practice ROS 2 communication patterns used in rob
 
 ```text
 ros2-turtlesim-control-project/
-├── turtlesim_ferr/
-│   └── Python ROS 2 package containing the turtlesim control node
-├── turtlesim_ferr_interfaces/
-│   └── Custom ROS 2 interface package defining SetPose.srv
-├── Part2.md
-└── Part3.md
++-- turtlesim_ferr/
+|   +-- Python ROS 2 package containing the turtlesim control node
++-- turtlesim_ferr_interfaces/
+|   +-- Custom ROS 2 interface package defining SetPose.srv
++-- Part2.md
++-- Part3.md
 ```
 
 ## Technical Details
